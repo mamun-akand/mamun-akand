@@ -7,13 +7,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamun-akand&label=Profile%20views&color=0e75b6&style=flat" alt="mamun-akand" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mamun-akand" alt="mamun-akand" /></a> </p>
+
 - 🔭 I’m currently working on [ATM Machine Simulator](https://github.com/mamun-akand/ATM-Machine-With-All-Transaction)
 
 - 🌱 I’m currently learning **Javascript, React**
 
 - 👨‍💻 All of my projects are available at [shorturl.at/lmMS1](shorturl.at/lmMS1)
 
-- 💬 Ask me about **Competitive Programming | Problem Solving | Data Structure | Algorithm | Database(MySQL) | C, C++ | OOP | Java**
+- 💬 Ask me about **Competitive Programming | Problem Solving | Data Structure | Algorithm | Database(MySQL) |C,C++| OOP | Java**
 
 - 📧 How to reach me **mamun.crick25@gmail.com**
 
@@ -35,5 +37,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mamun-akand&show_icons=true&locale=en" alt="mamun-akand" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mamun-akand&" alt="mamun-akand" /></p>
 
 
