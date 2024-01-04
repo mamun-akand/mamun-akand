@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Javascript, React**
 
-- 👨‍💻 All of my projects are available at [shorturl.at/lmMS1](https://t.ly/pU6hm)
+- 👨‍💻 All of my projects are available at [My Project and Works](https://t.ly/pU6hm)
 
 - 💬 Ask me about **Competitive Programming | Problem Solving | Data Structure | Algorithm | Database(MySQL) |C,C++| OOP | Java**
 
