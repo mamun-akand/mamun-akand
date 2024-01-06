@@ -1,4 +1,4 @@
-![Banner GIF](![Banner GIF2](https://github.com/mamun-akand/mamun-akand/assets/97316146/6036c6dd-e0a7-40c6-8714-9feb5a2ca2a0))
+![Banner GIF2](https://github.com/mamun-akand/mamun-akand/assets/97316146/6036c6dd-e0a7-40c6-8714-9feb5a2ca2a0)
 
 <h1 align="center">Hello, I'm Abdullah Al Mamun</h1>
 <h3 align="center">Competitive Programmer | Enthusiast in Learning | Team Player</h3> <br>
