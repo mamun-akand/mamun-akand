@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamun-akand&label=Profile%20views&color=0e75b6&style=flat" alt="mamun-akand" /> </p>
 
-- 🔭 I’m currently working on [Responsive E-Commerce Website-LIVE](https://buyexpress-ecommerce.netlify.app/)
+- 🔭 I’m currently working on [Responsive E-Commerce - LIVE](https://buyexpress-ecommerce.netlify.app/)
 
 - 🌱 I’m currently learning **C#, .NET, Javascript**
 
